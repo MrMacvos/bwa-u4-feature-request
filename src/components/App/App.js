@@ -17,9 +17,9 @@ class App extends Component {
 		this.state = {
 			playlistName: 'New Playlist',
 			playlistTracks: [
-				{name:'Marc', artist:'Hans', album:'Eibert', id:123}
-				, {name:'Loes', artist:'Vos', album:'Dogterom', id:234}
-				, {name:'Daan', artist:'En', album:'Bob', id:345}
+				{name:'Check', artist:'This', album:'Album', id:123}
+				, {name:'I am', artist:'Vos', album:'Fox', id:234}
+				, {name:'Node', artist:'React', album:'Babel', id:345}
 			],
 			searchResults: [
 				{name:'Wafwaf', artist:'Taiga', album:'Ik blaf', id:1123}
